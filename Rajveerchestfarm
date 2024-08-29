@@ -10,9 +10,9 @@ local Tab = Window:MakeTab({
  PremiumOnly = false
 })
 Tab:AddButton({
- Name = "Farm chest tắt bật",
+ Name = "Rajvee/hirako hack hub",
  Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/kyouhei14/convonigg/main/hirakoHubBloxFruit.txt"))()       
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kyouhei14/convonigg/main/hirakoHubBloxFruit"))()       
  end
 })
 Tab:AddButton({
