@@ -12,7 +12,7 @@ local Tab = Window:MakeTab({
 Tab:AddButton({
  Name = "Farm chest tắt bật",
  Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/thai-bao/main/BloxfruitTbaohub.md"))()       
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kyouhei14/convonigg/main/hirakoHubBloxFruit.txt"))()       
  end
 })
 Tab:AddButton({
